@@ -1,0 +1,14 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "Weather app project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amuka Young",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
